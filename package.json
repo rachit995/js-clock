@@ -1,0 +1,28 @@
+{
+  "name": "js-clock",
+  "version": "1.0.0",
+  "description": "It is a js html version of a simple clock",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachit995/js-clock.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "html",
+    "clock",
+    "web",
+    "development"
+  ],
+  "author": "Rachit Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachit995/js-clock/issues"
+  },
+  "homepage": "https://github.com/rachit995/js-clock#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
